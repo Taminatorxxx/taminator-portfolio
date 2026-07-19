@@ -1,2 +1,5 @@
-# taminator-portfolio
-Taminator — BD Strategist · Video Content · Brand Growth portfolio
+# Taminator Portfolio
+
+Business Developer · Strategist · Content Creator
+
+Deployed on Vercel.
